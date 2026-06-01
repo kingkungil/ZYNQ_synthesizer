@@ -1,0 +1,19 @@
+# Vivado temporary files
+*.log
+*.jou
+*.str
+.Xil/
+*.dir/
+
+# Project output files (these can be regenerated)
+/project_name.runs/
+/project_name.hw/
+/project_name.ip_user_files/
+/project_name.sim/
+/project_name.cache/
+/project_name.gen/
+
+# Output products
+*.bit
+*.bin
+*.mcs
