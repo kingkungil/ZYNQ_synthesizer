@@ -8,7 +8,7 @@ Zynq-7020 SoC를 이용한 실시간 오디오 DSP 프로젝트입니다.
 
 \## 폴더 구조
 
-\- /src: Verilog 소스 코드 및 제약 사항 파일, linux 제어파일
+\- /src: Verilog 소스 코드 및 제약 사항 파일, linux 제어파일, .hex 검증용 파일
 
 \- /docs: 회로도 및 설계 문서
 
