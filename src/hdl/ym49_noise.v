@@ -1,3 +1,30 @@
+/*  Based on JT49 - jt49_noise.v
+    https://github.com/jotego/jt49
+    Modified for ZYNQ_synthesizer (module renamed and adapted for Zynq-7020).
+
+  This file is part of JT49.
+
+    JT49 is free software: you can redistribute it and/or modify
+    it under the terms of the GNU General Public License as published by
+    the Free Software Foundation, either version 3 of the License, or
+    (at your option) any later version.
+
+    JT49 is distributed in the hope that it will be useful,
+    but WITHOUT ANY WARRANTY; without even the implied warranty of
+    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+    GNU General Public License for more details.
+
+    You should have received a copy of the GNU General Public License
+    along with JT49.  If not, see <http://www.gnu.org/licenses/>.
+    
+    Author: Jose Tejada Gomez. Twitter: @topapate
+    Version: 1.0
+    Date: 10-Nov-2018
+    
+    Based on sqmusic, by the same author
+    
+    
+*/
 `timescale 1ns / 1ps
 
 /* verilator coverage_off */

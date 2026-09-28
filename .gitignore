@@ -6,14 +6,27 @@
 *.dir/
 
 # Project output files (these can be regenerated)
-/project_name.runs/
-/project_name.hw/
-/project_name.ip_user_files/
-/project_name.sim/
-/project_name.cache/
-/project_name.gen/
+/project_1.runs/
+/project_1.hw/
+/project_1.ip_user_files/
+/project_1.sim/
+/project_1.cache/
+/project_1.gen/
 
 # Output products
 *.bit
 *.bin
 *.mcs
+
+# Vivado project folders
+*.cache/
+*.runs/
+*.hw/
+*.ip_user_files/
+*.sim/
+*.gen/
+*.xpr
+
+# Build output
+*.elf
+*.o
